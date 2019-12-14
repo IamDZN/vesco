@@ -249,5 +249,6 @@ home-btn {
 
 .img-wrapper img:hover {
     transform: scale(1.5);
+    cursor: zoom-in;
 }
 

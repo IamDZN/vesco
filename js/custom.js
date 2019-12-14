@@ -7,3 +7,17 @@ $(document).ready(function() {
     //animate on scroll
     new WOW().init();
 })
+
+/*===========================================================================
+                            WORK
+===========================================================================*/ 
+
+$(document).ready(function () {
+    $("#work").magnificPopup({
+        delegate: 'a',
+        type: 'image',
+        gallery:{
+            enabled:true
+          }
+    });
+})
