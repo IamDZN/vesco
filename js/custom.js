@@ -21,3 +21,17 @@ $(document).ready(function () {
           }
     });
 })
+
+/*===========================================================================
+                            WORK
+===========================================================================*/ 
+
+$(function(){
+    $("#team-members").owlCarousel({
+        items: 3,
+        autoplay: true,
+        smartSpeed: 100,
+        loop: true,
+        autoplayHoverPause : true
+    }); 
+});
