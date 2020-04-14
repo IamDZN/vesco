@@ -10,3 +10,5 @@ Used Resources
 * Animate JS
 * Magnific Popup JS
 * FontAwesome
+
+Site is published @ https://iamdzn.github.io/vesco/ .
